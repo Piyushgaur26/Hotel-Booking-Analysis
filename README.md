@@ -21,7 +21,6 @@ This project analyzes hotel booking data to understand trends, patterns, and fac
 
 - Python
 - Pandas, NumPy, Matplotlib, Seaborn
-- Scikit-learn
 - Jupyter Notebook
 
 ## How to Use
