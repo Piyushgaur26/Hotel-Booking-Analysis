@@ -27,13 +27,17 @@ This project analyzes hotel booking data to understand trends, patterns, and fac
 ## How to Use
 
 1. Clone the repository
-   '''bash
+   ```bash
    git clone https://github.com/Piyushgaur26/Hotel-Booking-Analysis.git
-   '''
+   ```
 3. Navigate to the project directory.
+   ```bash
    cd hotel-booking-analysis
+   ```
 4. Explore Jupyter Notebook files for analysis and code.
+   ```bash
    jupyter notebook
+   ```
 
 ## References
 
