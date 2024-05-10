@@ -1,5 +1,9 @@
 # Hotel Booking Data Analysis Project
 
+![App Preview](./Images/Report_Page_1.jpg)
+
+![App Preview](./Images/Report_Page_3.jpg)
+
 ## Overview
 
 This project analyzes hotel booking data to understand trends, patterns, and factors influencing cancellations. The goal is to provide insights for revenue optimization and customer retention in the hospitality industry.
