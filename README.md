@@ -29,15 +29,19 @@ This project analyzes hotel booking data to understand trends, patterns, and fac
    ```bash
    git clone https://github.com/Piyushgaur26/Hotel-Booking-Analysis.git
    ```
-3. Navigate to the project directory.
+2. Navigate to the project directory.
    ```bash
    cd hotel-booking-analysis
    ```
-4. Explore Jupyter Notebook files for analysis and code.
+3. Explore Jupyter Notebook files for analysis and code.
    ```bash
    jupyter notebook
    ```
 
 ## References
+
+**About Dataset**
+
+The online hotel reservation channels have dramatically changed booking possibilities and customers’ behavior. A significant number of hotel reservations are called-off due to cancellations or no-shows. The typical reasons for cancellations include change of plans, scheduling conflicts, etc. This is often made easier by the option to do so free of charge or preferably at a low cost which is beneficial to hotel guests but it is a less desirable and possibly revenue-diminishing factor for hotels to deal with.
 
 - Dataset: [Hotel Booking Demand Dataset](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset)
